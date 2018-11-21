@@ -6,4 +6,5 @@ import	"github.com/banyibu/stringutil"
 func main(){
 	fmt.Println("Hello, world!")
 	fmt.Println(stringutil.Reverse("!oG, olleH"))
+	fmt.Println("Hello, gitcolor")
 }
